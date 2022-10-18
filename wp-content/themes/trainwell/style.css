@@ -10,43 +10,26 @@ Template: generatepress
 
 /* https://coolors.co/e88d67-9999c3-7b8cde-c0e6de */
 
-/* CSS HEX */
---copper-crayola: #e88d67ff;
---blue-bell: #9999c3ff;
---cornflower-blue: #7b8cdeff;
---powder-blue: #c0e6deff;
+/*
+ Color scheme - https://color.adobe.com/Tasty-color-theme-10248330/edit/?copy=true
+ Mockups - https://magicmockups.com/mockup/1/7035fde7d08647fc9ce14e8cfcf59d4e
+*/
+:root {
+  --Pink: #F34A53;
+  --White: #FFFFFF;
+  --Grey: #F6F6F6;
+  --Black: #000000;
+  --BlueLightest: #BEEFFF;
+  --BlueLighter: #69DAFF;
+  --BlueDarker: #004F69;
+  --BlueDarkest: #002936;
+}
 
-/* CSS HSL */
---copper-crayola: hsla(18, 74%, 66%, 1);
---blue-bell: hsla(240, 26%, 68%, 1);
---cornflower-blue: hsla(230, 60%, 68%, 1);
---powder-blue: hsla(167, 43%, 83%, 1);
+html {
+	scroll-behavior: smooth;
+}
 
-/* SCSS HEX */
-$copper-crayola: #e88d67ff;
-$blue-bell: #9999c3ff;
-$cornflower-blue: #7b8cdeff;
-$powder-blue: #c0e6deff;
-
-/* SCSS HSL */
-$copper-crayola: hsla(18, 74%, 66%, 1);
-$blue-bell: hsla(240, 26%, 68%, 1);
-$cornflower-blue: hsla(230, 60%, 68%, 1);
-$powder-blue: hsla(167, 43%, 83%, 1);
-
-/* SCSS RGB */
-$copper-crayola: rgba(232, 141, 103, 1);
-$blue-bell: rgba(153, 153, 195, 1);
-$cornflower-blue: rgba(123, 140, 222, 1);
-$powder-blue: rgba(192, 230, 222, 1);
-
-/* SCSS Gradient */
-$gradient-top: linear-gradient(0deg, #e88d67ff, #9999c3ff, #7b8cdeff, #c0e6deff);
-$gradient-right: linear-gradient(90deg, #e88d67ff, #9999c3ff, #7b8cdeff, #c0e6deff);
-$gradient-bottom: linear-gradient(180deg, #e88d67ff, #9999c3ff, #7b8cdeff, #c0e6deff);
-$gradient-left: linear-gradient(270deg, #e88d67ff, #9999c3ff, #7b8cdeff, #c0e6deff);
-$gradient-top-right: linear-gradient(45deg, #e88d67ff, #9999c3ff, #7b8cdeff, #c0e6deff);
-$gradient-bottom-right: linear-gradient(135deg, #e88d67ff, #9999c3ff, #7b8cdeff, #c0e6deff);
-$gradient-top-left: linear-gradient(225deg, #e88d67ff, #9999c3ff, #7b8cdeff, #c0e6deff);
-$gradient-bottom-left: linear-gradient(315deg, #e88d67ff, #9999c3ff, #7b8cdeff, #c0e6deff);
-$gradient-radial: radial-gradient(#e88d67ff, #9999c3ff, #7b8cdeff, #c0e6deff);
+body {
+background-color: #ffffff;
+background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='100' height='100'%3E%3Cg fill='%23e0f7ff' fill-rule='evenodd'%3E%3Cpath opacity='.5' d='M96 95h4v1h-4v4h-1v-4h-9v4h-1v-4h-9v4h-1v-4h-9v4h-1v-4h-9v4h-1v-4h-9v4h-1v-4h-9v4h-1v-4h-9v4h-1v-4h-9v4h-1v-4H0v-1h15v-9H0v-1h15v-9H0v-1h15v-9H0v-1h15v-9H0v-1h15v-9H0v-1h15v-9H0v-1h15v-9H0v-1h15v-9H0v-1h15V0h1v15h9V0h1v15h9V0h1v15h9V0h1v15h9V0h1v15h9V0h1v15h9V0h1v15h9V0h1v15h9V0h1v15h4v1h-4v9h4v1h-4v9h4v1h-4v9h4v1h-4v9h4v1h-4v9h4v1h-4v9h4v1h-4v9h4v1h-4v9zm-1 0v-9h-9v9h9zm-10 0v-9h-9v9h9zm-10 0v-9h-9v9h9zm-10 0v-9h-9v9h9zm-10 0v-9h-9v9h9zm-10 0v-9h-9v9h9zm-10 0v-9h-9v9h9zm-10 0v-9h-9v9h9zm-9-10h9v-9h-9v9zm10 0h9v-9h-9v9zm10 0h9v-9h-9v9zm10 0h9v-9h-9v9zm10 0h9v-9h-9v9zm10 0h9v-9h-9v9zm10 0h9v-9h-9v9zm10 0h9v-9h-9v9zm9-10v-9h-9v9h9zm-10 0v-9h-9v9h9zm-10 0v-9h-9v9h9zm-10 0v-9h-9v9h9zm-10 0v-9h-9v9h9zm-10 0v-9h-9v9h9zm-10 0v-9h-9v9h9zm-10 0v-9h-9v9h9zm-9-10h9v-9h-9v9zm10 0h9v-9h-9v9zm10 0h9v-9h-9v9zm10 0h9v-9h-9v9zm10 0h9v-9h-9v9zm10 0h9v-9h-9v9zm10 0h9v-9h-9v9zm10 0h9v-9h-9v9zm9-10v-9h-9v9h9zm-10 0v-9h-9v9h9zm-10 0v-9h-9v9h9zm-10 0v-9h-9v9h9zm-10 0v-9h-9v9h9zm-10 0v-9h-9v9h9zm-10 0v-9h-9v9h9zm-10 0v-9h-9v9h9zm-9-10h9v-9h-9v9zm10 0h9v-9h-9v9zm10 0h9v-9h-9v9zm10 0h9v-9h-9v9zm10 0h9v-9h-9v9zm10 0h9v-9h-9v9zm10 0h9v-9h-9v9zm10 0h9v-9h-9v9zm9-10v-9h-9v9h9zm-10 0v-9h-9v9h9zm-10 0v-9h-9v9h9zm-10 0v-9h-9v9h9zm-10 0v-9h-9v9h9zm-10 0v-9h-9v9h9zm-10 0v-9h-9v9h9zm-10 0v-9h-9v9h9zm-9-10h9v-9h-9v9zm10 0h9v-9h-9v9zm10 0h9v-9h-9v9zm10 0h9v-9h-9v9zm10 0h9v-9h-9v9zm10 0h9v-9h-9v9zm10 0h9v-9h-9v9zm10 0h9v-9h-9v9z'/%3E%3Cpath d='M6 5V0H5v5H0v1h5v94h1V6h94V5H6z'/%3E%3C/g%3E%3C/svg%3E");
+}   
