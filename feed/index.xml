@@ -19,5 +19,13 @@
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=6.0.3</generator>
+
+<image>
+	<url>/wp-content/uploads/TrainWell-Icon.png</url>
+	<title>Train Well</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
 </channel>
 </rss>
