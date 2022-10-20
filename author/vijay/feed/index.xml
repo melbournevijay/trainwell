@@ -9,7 +9,7 @@
 
 <channel>
 	<title>Styling emails in Moodle & Totara LMS | Train Well</title>
-	<atom:link href="http://localhost/feed/" rel="self" type="application/rss+xml" />
+	<atom:link href="http://localhost/author/vijay/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description>Engaging Learning Solutions</description>
 	<lastBuildDate>Thu, 20 Oct 2022 12:04:05 +0000</lastBuildDate>

@@ -8,8 +8,8 @@
 	>
 
 <channel>
-	<title>Styling emails in Moodle & Totara LMS | Train Well</title>
-	<atom:link href="http://localhost/feed/" rel="self" type="application/rss+xml" />
+	<title>Uncategorized | Train Well</title>
+	<atom:link href="http://localhost/category/uncategorized/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description>Engaging Learning Solutions</description>
 	<lastBuildDate>Thu, 20 Oct 2022 12:04:05 +0000</lastBuildDate>
@@ -22,7 +22,7 @@
 
 <image>
 	<url>/wp-content/uploads/TrainWell-Icon.png</url>
-	<title>Styling emails in Moodle & Totara LMS | Train Well</title>
+	<title>Uncategorized | Train Well</title>
 	<link>/</link>
 	<width>32</width>
 	<height>32</height>
