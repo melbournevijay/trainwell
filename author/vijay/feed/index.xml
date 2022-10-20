@@ -12,7 +12,7 @@
 	<atom:link href="http://localhost/author/vijay/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description>Engaging Learning Solutions</description>
-	<lastBuildDate>Thu, 20 Oct 2022 12:04:05 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 20 Oct 2022 12:26:32 +0000</lastBuildDate>
 	<language>en-AU</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -33,7 +33,7 @@
 		
 		<dc:creator><![CDATA[vijay]]></dc:creator>
 		<pubDate>Thu, 20 Oct 2022 12:04:05 +0000</pubDate>
-				<category><![CDATA[Uncategorized]]></category>
+				<category><![CDATA[LMS Consultant]]></category>
 		<guid isPermaLink="false">/?p=119</guid>
 
 					<description><![CDATA[Save yourself the pain of coding your Totara email template from scratch. Brand your emails to look good in email clients like Outlook.]]></description>
