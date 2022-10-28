@@ -44,3 +44,15 @@ img.no-shadow,
 img[src^="data:image/svg"] {
 	box-shadow: none;
 }
+
+.scriptlesssocialsharing__buttons.no-icons::before {
+    display: inline-block;
+    width: 70px;
+    content: 'Share:';
+    font-weight: bold;
+    color: #004F69;
+}
+.scriptlesssocialsharing__buttons.no-icons .button {
+	outline: 1px solid #ffffff;	
+    padding: .125em .5em;
+}

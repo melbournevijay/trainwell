@@ -12,7 +12,7 @@
 	<atom:link href="http://localhost/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description>Engaging Learning Solutions</description>
-	<lastBuildDate>Sat, 22 Oct 2022 04:16:34 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 28 Oct 2022 11:38:35 +0000</lastBuildDate>
 	<language>en-AU</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,22 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Seminar Events – Filter by location in Totara LMS</title>
+		<link>/seminar-events-filter-totara-lms/</link>
+		
+		<dc:creator><![CDATA[vijay]]></dc:creator>
+		<pubDate>Fri, 28 Oct 2022 11:38:35 +0000</pubDate>
+				<category><![CDATA[LMS Consultant]]></category>
+		<guid isPermaLink="false">/?p=201</guid>
+
+					<description><![CDATA[<p>Do you need a simple filter to show/hide seminar events from a selected location in Totara LMS? We needed to run multiple events across multiple locations for our courses and we needed to do so across more than 50 different office locations. Since there may be 200 to 300 events every year for each course&#8230; ... <a title="Seminar Events – Filter by location in Totara LMS" class="read-more" href="/seminar-events-filter-totara-lms/" aria-label="More on Seminar Events – Filter by location in Totara LMS">Read more</a></p>
+<p>This post first appeared on https://trainwell.com.au/</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>Styling emails in Moodle &#038; Totara LMS</title>
 		<link>/styling-emails-totara-lms/</link>
 		
