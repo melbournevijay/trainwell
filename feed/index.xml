@@ -12,7 +12,7 @@
 	<atom:link href="http://localhost/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description>Engaging Learning Solutions</description>
-	<lastBuildDate>Fri, 28 Oct 2022 11:38:35 +0000</lastBuildDate>
+	<lastBuildDate>Sat, 05 Nov 2022 01:23:41 +0000</lastBuildDate>
 	<language>en-AU</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -73,6 +73,38 @@
 		<guid isPermaLink="false">/?p=138</guid>
 
 					<description><![CDATA[<p>Use the &#038;strings=1 parameter to show the origin of a language string and filter or find the correct string to modify e.g. 'Other evidence' in Record of Learning</p>
+<p>This post first appeared on https://trainwell.com.au/</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>How to access the free LinkedIn Learning for libraries?</title>
+		<link>/linkedin-learning-for-libraries/</link>
+		
+		<dc:creator><![CDATA[vijay]]></dc:creator>
+		<pubDate>Thu, 16 Jun 2022 02:00:00 +0000</pubDate>
+				<category><![CDATA[Training]]></category>
+		<guid isPermaLink="false">/?p=209</guid>
+
+					<description><![CDATA[<p>Microsoft LinkedIn Learning (formerly Lynda.com) is my go-to learning resource. It gives you unlimited access to video tutorials on a wide range of topics. Follow the steps below to access LinkedIn Learning for Libraries for free using your library card number and PIN. The numerous business and productivity courses on LinkedIn Learning helped me as ... <a title="How to access the free LinkedIn Learning for libraries?" class="read-more" href="/linkedin-learning-for-libraries/" aria-label="More on How to access the free LinkedIn Learning for libraries?">Read more</a></p>
+<p>This post first appeared on https://trainwell.com.au/</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Icons in Totara LMS</title>
+		<link>/icons-in-totara-lms/</link>
+		
+		<dc:creator><![CDATA[vijay]]></dc:creator>
+		<pubDate>Wed, 15 Jun 2022 14:00:00 +0000</pubDate>
+				<category><![CDATA[LMS Consultant]]></category>
+		<guid isPermaLink="false">/?p=139</guid>
+
+					<description><![CDATA[<p>Use the SVG icons already available in Totara LMS rather than adding images. Add them as SPAN tag. Add classes to change icon size and colour. </p>
 <p>This post first appeared on https://trainwell.com.au/</p>
 ]]></description>
 		
