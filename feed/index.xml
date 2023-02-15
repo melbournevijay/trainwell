@@ -9,16 +9,16 @@
 
 <channel>
 	<title>Train Well</title>
-	<atom:link href="http://localhost/feed/" rel="self" type="application/rss+xml" />
+	<atom:link href="http://localhost/feed/?simply_static_page=1289" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description>Engaging Learning Solutions</description>
-	<lastBuildDate>Sat, 05 Nov 2022 01:23:41 +0000</lastBuildDate>
+	<lastBuildDate>Wed, 15 Feb 2023 13:54:33 +0000</lastBuildDate>
 	<language>en-AU</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.0.3</generator>
+	<generator>https://wordpress.org/?v=6.1.1</generator>
 
 <image>
 	<url>/wp-content/uploads/TrainWell-Icon.png</url>
@@ -28,6 +28,22 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>SCORM Content fails to load for just one user &#8211; Totara LMS</title>
+		<link>/scorm-fails-for-one-user/</link>
+		
+		<dc:creator><![CDATA[vijay]]></dc:creator>
+		<pubDate>Wed, 15 Feb 2023 13:54:33 +0000</pubDate>
+				<category><![CDATA[LMS Consultant]]></category>
+		<guid isPermaLink="false">/?p=236</guid>
+
+					<description><![CDATA[<p>A SCORM module that works and has worked without issue for all users for more than a year but only shows a plain white screen (no content loads) for one user. I tried multiple browsers and devices; it only fails to load for the one user. Why did this happen? The user first attempted or ... <a title="SCORM Content fails to load for just one user &#8211; Totara LMS" class="read-more" href="/scorm-fails-for-one-user/" aria-label="More on SCORM Content fails to load for just one user &#8211; Totara LMS">Read more</a></p>
+<p>This post first appeared on https://trainwell.com.au/</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>Seminar Events – Filter by location in Totara LMS</title>
 		<link>/seminar-events-filter-totara-lms/</link>
 		
