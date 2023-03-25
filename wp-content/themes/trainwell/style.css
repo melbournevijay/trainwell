@@ -56,3 +56,31 @@ img[src^="data:image/svg"] {
 	outline: 1px solid #ffffff;	
     padding: .125em .5em;
 }
+
+/* https://docs.generatepress.com/article/adding-local-fonts/ */
+/* overpass-100 - latin */
+@font-face {
+  font-display: swap; /* Check https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display for other options. */
+  font-family: 'Overpass',Helvetica,Arial,sans-serif;
+  font-style: normal;
+  font-weight: 100;
+  src: url('/wp-content/themes/trainwell/overpass-v12-latin-100.ttfoverpass-v12-latin-100.eot'); /* IE9 Compat Modes */
+  src: url('/wp-content/themes/trainwell/overpass-v12-latin-100.ttfoverpass-v12-latin-100.eot#iefix') format('embedded-opentype'), /* IE6-IE8 */
+       url('/wp-content/themes/trainwell/overpass-v12-latin-100.ttfoverpass-v12-latin-100.woff2') format('woff2'), /* Super Modern Browsers */
+       url('/wp-content/themes/trainwell/overpass-v12-latin-100.ttfoverpass-v12-latin-100.woff') format('woff'), /* Modern Browsers */
+       url('/wp-content/themes/trainwell/overpass-v12-latin-100.ttfoverpass-v12-latin-100.ttf') format('truetype'), /* Safari, Android, iOS */
+       url('/wp-content/themes/trainwell/overpass-v12-latin-100.ttfoverpass-v12-latin-100.svg#Overpass') format('svg'); /* Legacy iOS */
+}
+/* overpass-regular - latin */
+@font-face {
+  font-display: swap; /* Check https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display for other options. */
+  font-family: 'Overpass',Helvetica,Arial,sans-serif;
+  font-style: normal;
+  font-weight: 400;
+  src: url('/wp-content/themes/trainwell/overpass-v12-latin-100.ttfoverpass-v12-latin-regular.eot'); /* IE9 Compat Modes */
+  src: url('/wp-content/themes/trainwell/overpass-v12-latin-100.ttfoverpass-v12-latin-regular.eot#iefix') format('embedded-opentype'), /* IE6-IE8 */
+       url('/wp-content/themes/trainwell/overpass-v12-latin-100.ttfoverpass-v12-latin-regular.woff2') format('woff2'), /* Super Modern Browsers */
+       url('/wp-content/themes/trainwell/overpass-v12-latin-100.ttfoverpass-v12-latin-regular.woff') format('woff'), /* Modern Browsers */
+       url('/wp-content/themes/trainwell/overpass-v12-latin-100.ttfoverpass-v12-latin-regular.ttf') format('truetype'), /* Safari, Android, iOS */
+       url('/wp-content/themes/trainwell/overpass-v12-latin-100.ttfoverpass-v12-latin-regular.svg#Overpass') format('svg'); /* Legacy iOS */
+}
