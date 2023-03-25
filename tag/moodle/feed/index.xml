@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Moodle &#8211; Train Well</title>
+	<atom:link href="http://localhost/tag/moodle/feed/?simply_static_page=2369" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Engaging Learning Solutions</description>
+	<lastBuildDate>Sat, 22 Oct 2022 04:16:34 +0000</lastBuildDate>
+	<language>en-AU</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.1.1</generator>
+
+<image>
+	<url>/wp-content/uploads/TrainWell-Icon.png</url>
+	<title>Moodle &#8211; Train Well</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Styling emails in Moodle &#038; Totara LMS</title>
+		<link>/styling-emails-totara-lms/</link>
+		
+		<dc:creator><![CDATA[vijay]]></dc:creator>
+		<pubDate>Thu, 20 Oct 2022 12:04:05 +0000</pubDate>
+				<category><![CDATA[LMS Consultant]]></category>
+		<category><![CDATA[Moodle]]></category>
+		<category><![CDATA[Totara]]></category>
+		<guid isPermaLink="false">/?p=119</guid>
+
+					<description><![CDATA[<p>Save yourself the pain of coding your Totara email template from scratch. Brand your emails to look good in email clients like Outlook.</p>
+<p>This post first appeared on https://trainwell.com.au/</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Modify the correct language string easily in Totara LMS</title>
+		<link>/language-strings-totara-lms/</link>
+		
+		<dc:creator><![CDATA[vijay]]></dc:creator>
+		<pubDate>Sat, 01 Oct 2022 00:00:00 +0000</pubDate>
+				<category><![CDATA[LMS Consultant]]></category>
+		<category><![CDATA[Moodle]]></category>
+		<category><![CDATA[Totara]]></category>
+		<guid isPermaLink="false">/?p=138</guid>
+
+					<description><![CDATA[<p>Use the &#038;strings=1 parameter to show the origin of a language string and filter or find the correct string to modify e.g. 'Other evidence' in Record of Learning</p>
+<p>This post first appeared on https://trainwell.com.au/</p>
+]]></description>
+		
+		
+		
+			</item>
+	</channel>
+</rss>

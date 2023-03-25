@@ -84,3 +84,11 @@ img[src^="data:image/svg"] {
        url('https://trainwell.com.au/wp-content/uploads/overpass-v12-latin-regular.ttf') format('truetype'), /* Safari, Android, iOS */
        url('https://trainwell.com.au/wp-content/uploads/overpass-v12-latin-regular.svg#Overpass') format('svg'); /* Legacy iOS */
 }
+
+/* Mobile optimised image alignment */
+@media (max-width: 768px) {
+    .wp-block-image .alignleft,
+    .wp-block-image .alignright {
+    	float: none;
+    }
+}

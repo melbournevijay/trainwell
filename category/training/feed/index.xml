@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Training &#8211; Train Well</title>
+	<atom:link href="http://localhost/category/training/feed/?simply_static_page=2367" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Engaging Learning Solutions</description>
+	<lastBuildDate>Sat, 18 Mar 2023 12:50:49 +0000</lastBuildDate>
+	<language>en-AU</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.1.1</generator>
+
+<image>
+	<url>/wp-content/uploads/TrainWell-Icon.png</url>
+	<title>Training &#8211; Train Well</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Jitsi &#8211; Secure, Free Video Conferencing for Learning Teams</title>
+		<link>/jitsi-for-learning-teams/</link>
+		
+		<dc:creator><![CDATA[vijay]]></dc:creator>
+		<pubDate>Sat, 18 Mar 2023 12:47:39 +0000</pubDate>
+				<category><![CDATA[Training]]></category>
+		<category><![CDATA[LMS Consultant]]></category>
+		<guid isPermaLink="false">/?p=251</guid>
+
+					<description><![CDATA[<p>Jitsi is an open source, feature rich and free video conferencing platform that provides a reliable solution for individuals and organisations looking for a safe and privacy-focused way to connect online. I wrote a detailed post on Jitsi on my blog at https://vjdesign.com.au/jitsi-secure-free-video-conferencing/ Jitsi for trainers/teachers Jitsi is an easy to use tool for teachers, ... <a title="Jitsi &#8211; Secure, Free Video Conferencing for Learning Teams" class="read-more" href="/jitsi-for-learning-teams/" aria-label="More on Jitsi &#8211; Secure, Free Video Conferencing for Learning Teams">Read more</a></p>
+<p>This post first appeared on https://trainwell.com.au/</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>How to access the free LinkedIn Learning for libraries?</title>
+		<link>/linkedin-learning-for-libraries/</link>
+		
+		<dc:creator><![CDATA[vijay]]></dc:creator>
+		<pubDate>Thu, 16 Jun 2022 02:00:00 +0000</pubDate>
+				<category><![CDATA[Training]]></category>
+		<guid isPermaLink="false">/?p=209</guid>
+
+					<description><![CDATA[<p>Microsoft LinkedIn Learning (formerly Lynda.com) is my go-to learning resource. It gives you unlimited access to video tutorials on a wide range of topics. Follow the steps below to access LinkedIn Learning for Libraries for free using your library card number and PIN. The numerous business and productivity courses on LinkedIn Learning helped me as ... <a title="How to access the free LinkedIn Learning for libraries?" class="read-more" href="/linkedin-learning-for-libraries/" aria-label="More on How to access the free LinkedIn Learning for libraries?">Read more</a></p>
+<p>This post first appeared on https://trainwell.com.au/</p>
+]]></description>
+		
+		
+		
+			</item>
+	</channel>
+</rss>
