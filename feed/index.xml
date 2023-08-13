@@ -9,10 +9,10 @@
 
 <channel>
 	<title>Train Well</title>
-	<atom:link href="http://localhost/feed/?simply_static_page=3549" rel="self" type="application/rss+xml" />
+	<atom:link href="http://localhost/feed/?simply_static_page=3851" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description>Engaging Learning Solutions</description>
-	<lastBuildDate>Sun, 13 Aug 2023 01:14:58 +0000</lastBuildDate>
+	<lastBuildDate>Sun, 13 Aug 2023 01:19:22 +0000</lastBuildDate>
 	<language>en-AU</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -36,7 +36,10 @@
 				<category><![CDATA[LMS Consultant]]></category>
 		<guid isPermaLink="false">/?p=366</guid>
 
-					<description><![CDATA[<p>Totara allows users the choice to choose training: This simple code provides a third option for users to find learning; i.e. choose their location to see if there are any upcoming seminar events to attend at their site/location (i.e. Room). This is one of the 3 methods for users to find learning: Here is the ... <a title="Enable signup via locations using a simple drop down (Totara LMS)" class="read-more" href="/signup-via-location-totara/" aria-label="More on Enable signup via locations using a simple drop down (Totara LMS)">Read more</a></p>
+					<description><![CDATA[<p>Totara Learn allows users the choice to choose training:</p>
+<p>Via the training catalogue by searching for course/program<br />
+Via the training calendar by date (i.e. looking for training in next few weeks)</p>
+<p>Use simple code to create a a third option for users to find learning; i.e. choose their location to see if there are any upcoming seminar events to attend at their site/location (i.e. Room). </p>
 <p>This post first appeared on https://trainwell.com.au/</p>
 ]]></description>
 		
