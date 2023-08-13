@@ -9,16 +9,16 @@
 
 <channel>
 	<title>Train Well</title>
-	<atom:link href="http://localhost/feed/?simply_static_page=3271" rel="self" type="application/rss+xml" />
+	<atom:link href="http://localhost/feed/?simply_static_page=3549" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description>Engaging Learning Solutions</description>
-	<lastBuildDate>Sun, 26 Mar 2023 05:27:56 +0000</lastBuildDate>
+	<lastBuildDate>Sun, 13 Aug 2023 01:14:58 +0000</lastBuildDate>
 	<language>en-AU</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.2</generator>
+	<generator>https://wordpress.org/?v=6.3</generator>
 
 <image>
 	<url>/wp-content/uploads/TrainWell-Icon.png</url>
@@ -28,6 +28,22 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Enable signup via locations using a simple drop down (Totara LMS)</title>
+		<link>/signup-via-location-totara/</link>
+		
+		<dc:creator><![CDATA[vijay]]></dc:creator>
+		<pubDate>Sun, 13 Aug 2023 01:14:58 +0000</pubDate>
+				<category><![CDATA[LMS Consultant]]></category>
+		<guid isPermaLink="false">/?p=366</guid>
+
+					<description><![CDATA[<p>Totara allows users the choice to choose training: This simple code provides a third option for users to find learning; i.e. choose their location to see if there are any upcoming seminar events to attend at their site/location (i.e. Room). This is one of the 3 methods for users to find learning: Here is the ... <a title="Enable signup via locations using a simple drop down (Totara LMS)" class="read-more" href="/signup-via-location-totara/" aria-label="More on Enable signup via locations using a simple drop down (Totara LMS)">Read more</a></p>
+<p>This post first appeared on https://trainwell.com.au/</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>Totara LMS for Compliance Training</title>
 		<link>/totara-lms-for-compliance-training/</link>
 		

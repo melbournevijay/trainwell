@@ -4,8 +4,30 @@
 		<loc>/articles/</loc>
 	</url>
 	<url>
+		<loc>/signup-via-location-totara/</loc>
+		<lastmod>2023-08-13T01:14:58+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/Find-workshops-at-your-location.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/select-location.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/manage-rooms-showing-ids.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/choose-location.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/choose-location-dropdown.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/sign-up-button-in-report.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
 		<loc>/totara-lms-for-compliance-training/</loc>
-		<lastmod>2023-03-26T16:27:56+11:00</lastmod>
+		<lastmod>2023-03-26T05:27:56+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/compliance-training-totara.jpg</image:loc>
 		</image:image>
@@ -42,7 +64,7 @@
 	</url>
 	<url>
 		<loc>/jitsi-for-learning-teams/</loc>
-		<lastmod>2023-03-18T23:50:49+11:00</lastmod>
+		<lastmod>2023-03-18T12:50:49+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/jitsi-create-meeting-room.jpg</image:loc>
 		</image:image>
@@ -52,7 +74,7 @@
 	</url>
 	<url>
 		<loc>/scorm-fails-for-one-user/</loc>
-		<lastmod>2023-02-16T00:54:33+11:00</lastmod>
+		<lastmod>2023-02-15T13:54:33+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/issue-for-one-individual.jpg</image:loc>
 		</image:image>
@@ -65,7 +87,7 @@
 	</url>
 	<url>
 		<loc>/icons-in-totara-lms/</loc>
-		<lastmod>2022-11-05T12:23:41+11:00</lastmod>
+		<lastmod>2022-11-05T01:23:41+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/1650332666666.jpeg</image:loc>
 		</image:image>
@@ -84,7 +106,7 @@
 	</url>
 	<url>
 		<loc>/linkedin-learning-for-libraries/</loc>
-		<lastmod>2022-11-05T12:20:39+11:00</lastmod>
+		<lastmod>2022-11-05T01:20:39+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/LinkedIn-Learning-for-libraries-Wyndham-City-Council.png</image:loc>
 		</image:image>
@@ -94,7 +116,7 @@
 	</url>
 	<url>
 		<loc>/seminar-events-filter-totara-lms/</loc>
-		<lastmod>2022-10-28T22:38:35+11:00</lastmod>
+		<lastmod>2022-10-28T11:38:35+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/Seminar-Events-Filter-by-location-in-Totara-LMS.jpg</image:loc>
 		</image:image>
@@ -113,7 +135,7 @@
 	</url>
 	<url>
 		<loc>/language-strings-totara-lms/</loc>
-		<lastmod>2022-10-22T15:16:34+11:00</lastmod>
+		<lastmod>2022-10-22T04:16:34+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/Modify-the-correct-language-string-easily-in-Totara-LMS.jpeg</image:loc>
 		</image:image>
@@ -129,7 +151,7 @@
 	</url>
 	<url>
 		<loc>/styling-emails-totara-lms/</loc>
-		<lastmod>2022-10-22T15:01:09+11:00</lastmod>
+		<lastmod>2022-10-22T04:01:09+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/Styling-email-template-in-Totara-LMS-1024x575-1.jpg</image:loc>
 		</image:image>

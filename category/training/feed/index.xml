@@ -9,7 +9,7 @@
 
 <channel>
 	<title>Training &#8211; Train Well</title>
-	<atom:link href="http://localhost/category/training/feed/?simply_static_page=3521" rel="self" type="application/rss+xml" />
+	<atom:link href="http://localhost/category/training/feed/?simply_static_page=3823" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description>Engaging Learning Solutions</description>
 	<lastBuildDate>Sat, 18 Mar 2023 12:50:49 +0000</lastBuildDate>
@@ -18,7 +18,7 @@
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.2</generator>
+	<generator>https://wordpress.org/?v=6.3</generator>
 
 <image>
 	<url>/wp-content/uploads/TrainWell-Icon.png</url>
