@@ -37,12 +37,16 @@ background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/s
 img,
 .shadow {
 	box-shadow: 0 10px 16px 0 rgba(0,0,0,0.2),0 6px 20px 0 rgba(0,0,0,0.19);
+	margin-bottom: 1em;
 }
 img.no-shadow,
 .no-shadow img,
 .site-logo img,
 img[src^="data:image/svg"] {
 	box-shadow: none;
+}
+.wp-block-kevinbatdorf-code-block-pro {
+	margin-bottom: 1em;
 }
 
 .scriptlesssocialsharing__buttons.no-icons::before {
@@ -92,3 +96,4 @@ img[src^="data:image/svg"] {
     	float: none;
     }
 }
+

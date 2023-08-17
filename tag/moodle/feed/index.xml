@@ -9,10 +9,10 @@
 
 <channel>
 	<title>Moodle &#8211; Train Well</title>
-	<atom:link href="http://localhost/tag/moodle/feed/?simply_static_page=4134" rel="self" type="application/rss+xml" />
+	<atom:link href="http://localhost/tag/moodle/feed/?simply_static_page=4463" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description>Engaging Learning Solutions</description>
-	<lastBuildDate>Sat, 22 Oct 2022 04:16:34 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 17 Aug 2023 00:57:31 +0000</lastBuildDate>
 	<language>en-AU</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,23 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Add CSS to Text block &#8211; Moodle LMS</title>
+		<link>/add-css-to-text-block-moodle/</link>
+		
+		<dc:creator><![CDATA[vijay]]></dc:creator>
+		<pubDate>Thu, 17 Aug 2023 00:56:58 +0000</pubDate>
+				<category><![CDATA[LMS Consultant]]></category>
+		<category><![CDATA[Moodle]]></category>
+		<guid isPermaLink="false">/?p=391</guid>
+
+					<description><![CDATA[<p>Any CSS we add to the Text Block gets deleted by Moodle LMS on Save. Add customs styles to an individual course page using this tip.</p>
+<p>This post first appeared on https://trainwell.com.au/</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>Styling emails in Moodle &#038; Totara LMS</title>
 		<link>/styling-emails-totara-lms/</link>
 		

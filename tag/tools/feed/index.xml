@@ -8,8 +8,8 @@
 	>
 
 <channel>
-	<title>Training &#8211; Train Well</title>
-	<atom:link href="http://localhost/category/training/feed/?simply_static_page=4459" rel="self" type="application/rss+xml" />
+	<title>Tools &#8211; Train Well</title>
+	<atom:link href="http://localhost/tag/tools/feed/?simply_static_page=4467" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description>Engaging Learning Solutions</description>
 	<lastBuildDate>Thu, 17 Aug 2023 00:56:05 +0000</lastBuildDate>
@@ -22,29 +22,12 @@
 
 <image>
 	<url>/wp-content/uploads/TrainWell-Icon.png</url>
-	<title>Training &#8211; Train Well</title>
+	<title>Tools &#8211; Train Well</title>
 	<link>/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
-		<title>Jitsi &#8211; Secure, Free Video Conferencing for Learning Teams</title>
-		<link>/jitsi-for-learning-teams/</link>
-		
-		<dc:creator><![CDATA[vijay]]></dc:creator>
-		<pubDate>Sat, 18 Mar 2023 12:47:39 +0000</pubDate>
-				<category><![CDATA[Training]]></category>
-		<category><![CDATA[LMS Consultant]]></category>
-		<guid isPermaLink="false">/?p=251</guid>
-
-					<description><![CDATA[<p>Jitsi is an open source, feature rich and free video conferencing platform that provides a reliable solution for individuals and organisations looking for a safe and privacy-focused way to connect online. I wrote a detailed post on Jitsi on my blog at https://vjdesign.com.au/jitsi-secure-free-video-conferencing/ Jitsi for trainers/teachers Jitsi is an easy to use tool for teachers, ... <a title="Jitsi &#8211; Secure, Free Video Conferencing for Learning Teams" class="read-more" href="/jitsi-for-learning-teams/" aria-label="More on Jitsi &#8211; Secure, Free Video Conferencing for Learning Teams">Read more</a></p>
-<p>This post first appeared on https://trainwell.com.au/</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
 		<title>How to access the free LinkedIn Learning for libraries?</title>
 		<link>/linkedin-learning-for-libraries/</link>
 		
