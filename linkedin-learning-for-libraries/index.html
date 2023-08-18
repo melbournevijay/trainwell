@@ -185,12 +185,14 @@ img.emoji {
 <div class="commentbox"></div>
 <script src="https://unpkg.com/commentbox.io/dist/commentBox.min.js"></script>
 <script>commentBox('5677788094791680-proj', {
-    className: 'comments', // the class of divs to look for
-    defaultBoxId: 'comments', // the default ID to associate to the div
-    sortOrder: 'newest', // specify the default comment sort order ("best", "newest", "oldest")
-    backgroundColor: '#fff', // default transparent
-    textColor: '#333', // default black
-    subtextColor: '#666', // default grey
+
+    className: 'commentbox', // the class of divs to look for
+    defaultBoxId: 'commentbox', // the default ID to associate to the div
+    tlcParam: 'tlc', // used for identifying links to comments on your page
+    sortOrder: 'best', // specify the default comment sort order ("best", "newest", "oldest")
+    backgroundColor: null, // default transparent
+    textColor: null, // default black
+    subtextColor: null, // default grey
     singleSignOn: null, // enables Single Sign-On (for Professional plans only)
     /**
      * Creates a unique URL to each box on your page.
@@ -199,9 +201,12 @@ img.emoji {
      * @param {Location} pageLocation - a copy of the current window.location
      * @returns {string}
      */
-    /*createBoxUrl(boxId, pageLocation) {
+    createBoxUrl(boxId, pageLocation) {
+
+        pageLocation.search = ''; // removes query string!
+        pageLocation.hash = boxId; // creates link to this specific Comment Box on your page
         return pageLocation.href; // return url string
-    },*/
+    },
     /**
      * Fires once the plugin loads its comments.
      * May fire multiple times in its lifetime.
