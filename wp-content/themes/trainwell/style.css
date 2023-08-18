@@ -45,6 +45,10 @@ img.no-shadow,
 img[src^="data:image/svg"] {
 	box-shadow: none;
 }
+.gb-icon svg[fill="none"] {
+	fill: none;
+}
+
 .wp-block-kevinbatdorf-code-block-pro {
 	margin-bottom: 1em;
 }
