@@ -9,7 +9,7 @@
 
 <channel>
 	<title>Tools &#8211; Train Well</title>
-	<atom:link href="http://localhost/tag/tools/feed/?simply_static_page=7115" rel="self" type="application/rss+xml" />
+	<atom:link href="/tag/tools/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description>Engaging Learning Solutions</description>
 	<lastBuildDate>Thu, 17 Aug 2023 00:56:05 +0000</lastBuildDate>
@@ -18,7 +18,7 @@
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.3</generator>
+	<generator>https://wordpress.org/?v=6.4.2</generator>
 
 <image>
 	<url>/wp-content/uploads/TrainWell-Icon.png</url>
@@ -35,7 +35,7 @@
 		<pubDate>Thu, 16 Jun 2022 02:00:00 +0000</pubDate>
 				<category><![CDATA[Training]]></category>
 		<category><![CDATA[Tools]]></category>
-		<guid isPermaLink="false">/?p=209</guid>
+		<guid isPermaLink="false">http://localhost:10138/?p=209</guid>
 
 					<description><![CDATA[<p>Microsoft LinkedIn Learning (formerly Lynda.com) is my go-to learning resource. It gives you unlimited access to video tutorials on a wide range of topics. Follow the steps below to access LinkedIn Learning for Libraries for free using your library card number and PIN. The numerous business and productivity courses on LinkedIn Learning helped me as ... <a title="How to access the free LinkedIn Learning for libraries?" class="read-more" href="/linkedin-learning-for-libraries/" aria-label="More on How to access the free LinkedIn Learning for libraries?">Read more</a></p>
 <p>This post first appeared on https://trainwell.com.au/</p>

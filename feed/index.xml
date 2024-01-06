@@ -9,7 +9,7 @@
 
 <channel>
 	<title>Train Well</title>
-	<atom:link href="http://localhost/feed/?simply_static_page=6806" rel="self" type="application/rss+xml" />
+	<atom:link href="/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description>Engaging Learning Solutions</description>
 	<lastBuildDate>Thu, 17 Aug 2023 00:57:31 +0000</lastBuildDate>
@@ -18,7 +18,7 @@
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.3</generator>
+	<generator>https://wordpress.org/?v=6.4.2</generator>
 
 <image>
 	<url>/wp-content/uploads/TrainWell-Icon.png</url>
@@ -35,7 +35,7 @@
 		<pubDate>Thu, 17 Aug 2023 00:56:58 +0000</pubDate>
 				<category><![CDATA[LMS Consultant]]></category>
 		<category><![CDATA[Moodle]]></category>
-		<guid isPermaLink="false">/?p=391</guid>
+		<guid isPermaLink="false">http://localhost:10138/?p=391</guid>
 
 					<description><![CDATA[<p>Any CSS we add to the Text Block gets deleted by Moodle LMS on Save. Add customs styles to an individual course page using this tip.</p>
 <p>This post first appeared on https://trainwell.com.au/</p>
@@ -52,7 +52,7 @@
 		<pubDate>Sun, 13 Aug 2023 01:14:58 +0000</pubDate>
 				<category><![CDATA[LMS Consultant]]></category>
 		<category><![CDATA[Totara]]></category>
-		<guid isPermaLink="false">/?p=366</guid>
+		<guid isPermaLink="false">http://localhost:10138/?p=366</guid>
 
 					<description><![CDATA[<p>Totara Learn allows users the choice to choose training:</p>
 <p>Via the training catalogue by searching for course/program<br />
@@ -72,7 +72,7 @@ Via the training calendar by date (i.e. looking for training in next few weeks)<
 		<pubDate>Sun, 26 Mar 2023 05:27:56 +0000</pubDate>
 				<category><![CDATA[Compliance]]></category>
 		<category><![CDATA[Totara]]></category>
-		<guid isPermaLink="false">/?p=303</guid>
+		<guid isPermaLink="false">http://localhost:10138/?p=303</guid>
 
 					<description><![CDATA[<p>Compliance training is an essential part of any organisations learning and development strategy, as it helps ensure that employees understand and comply with legal and regulatory requirements. Totara LMS is a powerful learning management system that can help you set up and manage your compliance training courses effectively. Here&#8217;s how you can do it: 1. ... <a title="Totara LMS for Compliance Training" class="read-more" href="/totara-lms-for-compliance-training/" aria-label="More on Totara LMS for Compliance Training">Read more</a></p>
 <p>This post first appeared on https://trainwell.com.au/</p>
@@ -89,7 +89,7 @@ Via the training calendar by date (i.e. looking for training in next few weeks)<
 		<pubDate>Sat, 18 Mar 2023 12:47:39 +0000</pubDate>
 				<category><![CDATA[Training]]></category>
 		<category><![CDATA[LMS Consultant]]></category>
-		<guid isPermaLink="false">/?p=251</guid>
+		<guid isPermaLink="false">http://localhost:10138/?p=251</guid>
 
 					<description><![CDATA[<p>Jitsi is an open source, feature rich and free video conferencing platform that provides a reliable solution for individuals and organisations looking for a safe and privacy-focused way to connect online. I wrote a detailed post on Jitsi on my blog at https://vjdesign.com.au/jitsi-secure-free-video-conferencing/ Jitsi for trainers/teachers Jitsi is an easy to use tool for teachers, ... <a title="Jitsi &#8211; Secure, Free Video Conferencing for Learning Teams" class="read-more" href="/jitsi-for-learning-teams/" aria-label="More on Jitsi &#8211; Secure, Free Video Conferencing for Learning Teams">Read more</a></p>
 <p>This post first appeared on https://trainwell.com.au/</p>
@@ -106,7 +106,7 @@ Via the training calendar by date (i.e. looking for training in next few weeks)<
 		<pubDate>Wed, 15 Feb 2023 13:54:33 +0000</pubDate>
 				<category><![CDATA[LMS Consultant]]></category>
 		<category><![CDATA[Totara]]></category>
-		<guid isPermaLink="false">/?p=236</guid>
+		<guid isPermaLink="false">http://localhost:10138/?p=236</guid>
 
 					<description><![CDATA[<p>A SCORM module that works and has worked without issue for all users for more than a year but only shows a plain white screen (no content loads) for one user. I tried multiple browsers and devices; it only fails to load for the one user. Why did this happen? The user first attempted or ... <a title="SCORM Content fails to load for just one user &#8211; Totara LMS" class="read-more" href="/scorm-fails-for-one-user/" aria-label="More on SCORM Content fails to load for just one user &#8211; Totara LMS">Read more</a></p>
 <p>This post first appeared on https://trainwell.com.au/</p>
@@ -123,7 +123,7 @@ Via the training calendar by date (i.e. looking for training in next few weeks)<
 		<pubDate>Fri, 28 Oct 2022 11:38:35 +0000</pubDate>
 				<category><![CDATA[LMS Consultant]]></category>
 		<category><![CDATA[Totara]]></category>
-		<guid isPermaLink="false">/?p=201</guid>
+		<guid isPermaLink="false">http://localhost:10138/?p=201</guid>
 
 					<description><![CDATA[<p>Do you need a simple filter to show/hide seminar events from a selected location in Totara LMS? We needed to run multiple events across multiple locations for our courses and we needed to do so across more than 50 different office locations. Since there may be 200 to 300 events every year for each course&#8230; ... <a title="Seminar Events – Filter by location in Totara LMS" class="read-more" href="/seminar-events-filter-totara-lms/" aria-label="More on Seminar Events – Filter by location in Totara LMS">Read more</a></p>
 <p>This post first appeared on https://trainwell.com.au/</p>
@@ -141,7 +141,7 @@ Via the training calendar by date (i.e. looking for training in next few weeks)<
 				<category><![CDATA[LMS Consultant]]></category>
 		<category><![CDATA[Moodle]]></category>
 		<category><![CDATA[Totara]]></category>
-		<guid isPermaLink="false">/?p=119</guid>
+		<guid isPermaLink="false">http://localhost:10138/?p=119</guid>
 
 					<description><![CDATA[<p>Save yourself the pain of coding your Totara email template from scratch. Brand your emails to look good in email clients like Outlook.</p>
 <p>This post first appeared on https://trainwell.com.au/</p>
@@ -159,7 +159,7 @@ Via the training calendar by date (i.e. looking for training in next few weeks)<
 				<category><![CDATA[LMS Consultant]]></category>
 		<category><![CDATA[Moodle]]></category>
 		<category><![CDATA[Totara]]></category>
-		<guid isPermaLink="false">/?p=138</guid>
+		<guid isPermaLink="false">http://localhost:10138/?p=138</guid>
 
 					<description><![CDATA[<p>Use the &#038;strings=1 parameter to show the origin of a language string and filter or find the correct string to modify e.g. 'Other evidence' in Record of Learning</p>
 <p>This post first appeared on https://trainwell.com.au/</p>
@@ -176,7 +176,7 @@ Via the training calendar by date (i.e. looking for training in next few weeks)<
 		<pubDate>Thu, 16 Jun 2022 02:00:00 +0000</pubDate>
 				<category><![CDATA[Training]]></category>
 		<category><![CDATA[Tools]]></category>
-		<guid isPermaLink="false">/?p=209</guid>
+		<guid isPermaLink="false">http://localhost:10138/?p=209</guid>
 
 					<description><![CDATA[<p>Microsoft LinkedIn Learning (formerly Lynda.com) is my go-to learning resource. It gives you unlimited access to video tutorials on a wide range of topics. Follow the steps below to access LinkedIn Learning for Libraries for free using your library card number and PIN. The numerous business and productivity courses on LinkedIn Learning helped me as ... <a title="How to access the free LinkedIn Learning for libraries?" class="read-more" href="/linkedin-learning-for-libraries/" aria-label="More on How to access the free LinkedIn Learning for libraries?">Read more</a></p>
 <p>This post first appeared on https://trainwell.com.au/</p>
@@ -193,7 +193,7 @@ Via the training calendar by date (i.e. looking for training in next few weeks)<
 		<pubDate>Wed, 15 Jun 2022 14:00:00 +0000</pubDate>
 				<category><![CDATA[LMS Consultant]]></category>
 		<category><![CDATA[Totara]]></category>
-		<guid isPermaLink="false">/?p=139</guid>
+		<guid isPermaLink="false">http://localhost:10138/?p=139</guid>
 
 					<description><![CDATA[<p>Use the SVG icons already available in Totara LMS rather than adding images. Add them as SPAN tag. Add classes to change icon size and colour. </p>
 <p>This post first appeared on https://trainwell.com.au/</p>

@@ -9,7 +9,7 @@
 
 <channel>
 	<title>Compliance &#8211; Train Well</title>
-	<atom:link href="http://localhost/category/compliance/feed/?simply_static_page=7109" rel="self" type="application/rss+xml" />
+	<atom:link href="/category/compliance/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description>Engaging Learning Solutions</description>
 	<lastBuildDate>Thu, 17 Aug 2023 00:55:40 +0000</lastBuildDate>
@@ -18,7 +18,7 @@
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.3</generator>
+	<generator>https://wordpress.org/?v=6.4.2</generator>
 
 <image>
 	<url>/wp-content/uploads/TrainWell-Icon.png</url>
@@ -35,7 +35,7 @@
 		<pubDate>Sun, 26 Mar 2023 05:27:56 +0000</pubDate>
 				<category><![CDATA[Compliance]]></category>
 		<category><![CDATA[Totara]]></category>
-		<guid isPermaLink="false">/?p=303</guid>
+		<guid isPermaLink="false">http://localhost:10138/?p=303</guid>
 
 					<description><![CDATA[<p>Compliance training is an essential part of any organisations learning and development strategy, as it helps ensure that employees understand and comply with legal and regulatory requirements. Totara LMS is a powerful learning management system that can help you set up and manage your compliance training courses effectively. Here&#8217;s how you can do it: 1. ... <a title="Totara LMS for Compliance Training" class="read-more" href="/totara-lms-for-compliance-training/" aria-label="More on Totara LMS for Compliance Training">Read more</a></p>
 <p>This post first appeared on https://trainwell.com.au/</p>

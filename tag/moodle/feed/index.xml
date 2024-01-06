@@ -9,7 +9,7 @@
 
 <channel>
 	<title>Moodle &#8211; Train Well</title>
-	<atom:link href="http://localhost/tag/moodle/feed/?simply_static_page=7111" rel="self" type="application/rss+xml" />
+	<atom:link href="/tag/moodle/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description>Engaging Learning Solutions</description>
 	<lastBuildDate>Thu, 17 Aug 2023 00:57:31 +0000</lastBuildDate>
@@ -18,7 +18,7 @@
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.3</generator>
+	<generator>https://wordpress.org/?v=6.4.2</generator>
 
 <image>
 	<url>/wp-content/uploads/TrainWell-Icon.png</url>
@@ -35,7 +35,7 @@
 		<pubDate>Thu, 17 Aug 2023 00:56:58 +0000</pubDate>
 				<category><![CDATA[LMS Consultant]]></category>
 		<category><![CDATA[Moodle]]></category>
-		<guid isPermaLink="false">/?p=391</guid>
+		<guid isPermaLink="false">http://localhost:10138/?p=391</guid>
 
 					<description><![CDATA[<p>Any CSS we add to the Text Block gets deleted by Moodle LMS on Save. Add customs styles to an individual course page using this tip.</p>
 <p>This post first appeared on https://trainwell.com.au/</p>
@@ -53,7 +53,7 @@
 				<category><![CDATA[LMS Consultant]]></category>
 		<category><![CDATA[Moodle]]></category>
 		<category><![CDATA[Totara]]></category>
-		<guid isPermaLink="false">/?p=119</guid>
+		<guid isPermaLink="false">http://localhost:10138/?p=119</guid>
 
 					<description><![CDATA[<p>Save yourself the pain of coding your Totara email template from scratch. Brand your emails to look good in email clients like Outlook.</p>
 <p>This post first appeared on https://trainwell.com.au/</p>
@@ -71,7 +71,7 @@
 				<category><![CDATA[LMS Consultant]]></category>
 		<category><![CDATA[Moodle]]></category>
 		<category><![CDATA[Totara]]></category>
-		<guid isPermaLink="false">/?p=138</guid>
+		<guid isPermaLink="false">http://localhost:10138/?p=138</guid>
 
 					<description><![CDATA[<p>Use the &#038;strings=1 parameter to show the origin of a language string and filter or find the correct string to modify e.g. 'Other evidence' in Record of Learning</p>
 <p>This post first appeared on https://trainwell.com.au/</p>
