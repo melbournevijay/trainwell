@@ -12,7 +12,7 @@
 	<atom:link href="/tag/moodle/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description>Engaging Learning Solutions</description>
-	<lastBuildDate>Thu, 17 Aug 2023 00:57:31 +0000</lastBuildDate>
+	<lastBuildDate>Sun, 12 Jan 2025 02:26:31 +0000</lastBuildDate>
 	<language>en-AU</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,23 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Moodle LMS for Compliance Training</title>
+		<link>/moodle-lms-for-compliance/</link>
+		
+		<dc:creator><![CDATA[vijay]]></dc:creator>
+		<pubDate>Sun, 12 Jan 2025 02:00:46 +0000</pubDate>
+				<category><![CDATA[Compliance]]></category>
+		<category><![CDATA[Moodle]]></category>
+		<guid isPermaLink="false">/?p=465</guid>
+
+					<description><![CDATA[<p>Moodle LMS is a free and powerful learning management system that can help you set up and manage your compliance training courses effectively. Compliance training is an essential part of any organisations learning and development strategy, as it helps ensure that employees understand and comply with legal and regulatory requirements. Here&#8217;s how you can do ... <a title="Moodle LMS for Compliance Training" class="read-more" href="/moodle-lms-for-compliance/" aria-label="Read more about Moodle LMS for Compliance Training">Read more</a></p>
+<p>This post first appeared on https://trainwell.com.au/</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>Add CSS to Text block &#8211; Moodle LMS</title>
 		<link>/add-css-to-text-block-moodle/</link>
 		

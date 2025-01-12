@@ -12,7 +12,7 @@
 	<atom:link href="/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description>Engaging Learning Solutions</description>
-	<lastBuildDate>Sun, 12 Jan 2025 02:04:54 +0000</lastBuildDate>
+	<lastBuildDate>Sun, 12 Jan 2025 02:27:10 +0000</lastBuildDate>
 	<language>en-AU</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -34,6 +34,7 @@
 		<dc:creator><![CDATA[vijay]]></dc:creator>
 		<pubDate>Sun, 12 Jan 2025 02:00:46 +0000</pubDate>
 				<category><![CDATA[Compliance]]></category>
+		<category><![CDATA[Moodle]]></category>
 		<guid isPermaLink="false">/?p=465</guid>
 
 					<description><![CDATA[<p>Moodle LMS is a free and powerful learning management system that can help you set up and manage your compliance training courses effectively. Compliance training is an essential part of any organisations learning and development strategy, as it helps ensure that employees understand and comply with legal and regulatory requirements. Here&#8217;s how you can do ... <a title="Moodle LMS for Compliance Training" class="read-more" href="/moodle-lms-for-compliance/" aria-label="Read more about Moodle LMS for Compliance Training">Read more</a></p>
@@ -90,7 +91,7 @@ Via the training calendar by date (i.e. looking for training in next few weeks)<
 		<category><![CDATA[Totara]]></category>
 		<guid isPermaLink="false">http://localhost:10138/?p=303</guid>
 
-					<description><![CDATA[<p>Compliance training is an essential part of any organisations learning and development strategy, as it helps ensure that employees understand and comply with legal and regulatory requirements. Totara LMS is a powerful learning management system that can help you set up and manage your compliance training courses effectively. Here&#8217;s how you can do it: 1. ... <a title="Totara LMS for Compliance Training" class="read-more" href="/totara-lms-for-compliance-training/" aria-label="Read more about Totara LMS for Compliance Training">Read more</a></p>
+					<description><![CDATA[<p>Totara LMS is a powerful learning management system that can help you set up and manage your compliance training courses effectively. Compliance training is an essential part of any organisations learning and development strategy, as it helps ensure that employees understand and comply with legal and regulatory requirements. Here&#8217;s how you can do it: 1. ... <a title="Totara LMS for Compliance Training" class="read-more" href="/totara-lms-for-compliance-training/" aria-label="Read more about Totara LMS for Compliance Training">Read more</a></p>
 <p>This post first appeared on https://trainwell.com.au/</p>
 ]]></description>
 		

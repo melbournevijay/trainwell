@@ -4,10 +4,47 @@
 		<loc>/articles/</loc>
 	</url>
 	<url>
-		<loc>/moodle-lms-for-compliance/</loc>
-		<lastmod>2025-01-12T02:04:54+00:00</lastmod>
+		<loc>/totara-lms-for-compliance-training/</loc>
+		<lastmod>2025-01-12T02:27:10+00:00</lastmod>
 		<image:image>
-			<image:loc>/wp-content/uploads/compliance-training-totara.jpg</image:loc>
+			<image:loc>/wp-content/uploads/totara-learning-management-system.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/Articulate-Rise.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/Articulate-Storyline.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/Course-Set-Up-Details.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/Course-Set-Up-Content.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/Course-Set-Up-Completion.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/Audience-tabs.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/Program-Content.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/Certification-Recertification.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/Reports-Graphical.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/training-feedback.jpeg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/moodle-lms-for-compliance/</loc>
+		<lastmod>2025-01-12T02:26:31+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/moodle-learning-management-system.jpg</image:loc>
 		</image:image>
 		<image:image>
 			<image:loc>/wp-content/uploads/Articulate-Rise.png</image:loc>
@@ -73,6 +110,31 @@
 		</image:image>
 	</url>
 	<url>
+		<loc>/signup-via-location-totara/</loc>
+		<lastmod>2023-08-17T00:55:40+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/sign-up-buttons.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/Find-workshops-at-your-location.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/select-location.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/manage-rooms-showing-ids.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/choose-location.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/choose-location-dropdown.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/sign-up-button-in-report.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
 		<loc>/icons-in-totara-lms/</loc>
 		<lastmod>2023-08-17T00:55:40+00:00</lastmod>
 		<image:image>
@@ -121,68 +183,6 @@
 		</image:image>
 		<image:image>
 			<image:loc>/wp-content/uploads/scorm-delete-selected-attemps.jpg</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>/totara-lms-for-compliance-training/</loc>
-		<lastmod>2023-08-17T00:55:40+00:00</lastmod>
-		<image:image>
-			<image:loc>/wp-content/uploads/compliance-training-totara.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/Articulate-Rise.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/Articulate-Storyline.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/Course-Set-Up-Details.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/Course-Set-Up-Content.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/Course-Set-Up-Completion.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/Audience-tabs.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/Program-Content.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/Certification-Recertification.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/Reports-Graphical.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/training-feedback.jpeg</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>/signup-via-location-totara/</loc>
-		<lastmod>2023-08-17T00:55:40+00:00</lastmod>
-		<image:image>
-			<image:loc>/wp-content/uploads/sign-up-buttons.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/Find-workshops-at-your-location.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/select-location.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/manage-rooms-showing-ids.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/choose-location.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/choose-location-dropdown.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/sign-up-button-in-report.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
