@@ -36,6 +36,31 @@
 		</image:image>
 	</url>
 	<url>
+		<loc>/signup-via-location-totara/</loc>
+		<lastmod>2023-08-17T00:55:40+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/sign-up-buttons.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/Find-workshops-at-your-location.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/select-location.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/manage-rooms-showing-ids.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/choose-location.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/choose-location-dropdown.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/sign-up-button-in-report.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
 		<loc>/icons-in-totara-lms/</loc>
 		<lastmod>2023-08-17T00:55:40+00:00</lastmod>
 		<image:image>
@@ -121,31 +146,6 @@
 		</image:image>
 		<image:image>
 			<image:loc>/wp-content/uploads/training-feedback.jpeg</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>/signup-via-location-totara/</loc>
-		<lastmod>2023-08-17T00:55:40+00:00</lastmod>
-		<image:image>
-			<image:loc>/wp-content/uploads/sign-up-buttons.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/Find-workshops-at-your-location.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/select-location.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/manage-rooms-showing-ids.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/choose-location.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/choose-location-dropdown.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/sign-up-button-in-report.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
