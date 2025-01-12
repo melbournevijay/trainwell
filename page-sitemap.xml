@@ -66,6 +66,9 @@
 		<image:image>
 			<image:loc>/wp-content/uploads/compliance-training-totara-600x245.jpg</image:loc>
 		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/compliance-training-totara-600x245.jpg</image:loc>
+		</image:image>
 	</url>
 	<url>
 		<loc>/lms-consultant/</loc>
